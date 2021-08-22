@@ -1,0 +1,8 @@
+html{
+    background-image: url(../../image/soldat1.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-style: groove;
+    font-size: x-small;
+    color: rgb(168, 168, 168);
+}
